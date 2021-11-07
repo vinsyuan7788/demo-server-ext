@@ -1,0 +1,2 @@
+# demo-server-ext
+A demo project with identical purpose as "demo-server-ext" project, only it integrates the theories (e.g., algorithm, data structure, etc.) and applications (e.g., framework, tool, etc.) that are implementation-incompatible in "demo-server-ext" project
