@@ -3,7 +3,7 @@ package com.demo.server.ext.web.application.springboot;
 import com.demo.base.common.response.bean.CommonResponse;
 import com.demo.base.common.response.enums.ResponseEnum;
 import com.demo.base.common.utils.LogUtils;
-import com.demo.base.common.utils.utils.ParametersToLog;
+import com.demo.base.common.utils.bean.ParametersToLog;
 import com.demo.server.ext.common.utils.SystemUtils;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
